@@ -4,220 +4,220 @@
 
 | type | spl | fra | cen | honeycomb |
 | --- | --- | --- | --- | --- |
-| (J) | true | false | true | true |
-| (Jv1) | true | true | true | true |
-| (Jv10) | true | true | true | true |
-| (Jv10v1(1)) | true | true | true | false |
-| (Jv10v1(2)) | true | true | true | false |
-| (Jv10v1(3)) | true | true | true | false |
-| (Jv10v1(4)) | true | false | false | false |
-| (Jv1(1)) | true | true | true | true |
-| (Jv11) | true | true | true | true |
-| (Jv1(10)) | true | false | true | false |
-| (Jv1(1(1))) | false | false | false | true |
-| (Jv1(11)) | true | false | true | false |
-| (Jv1(12)) | true | false | true | false |
-| (Jv1(13)) | false | false | true | false |
-| (Jv11v1(1)) | true | true | true | false |
-| (Jv11v1(2)) | false | true | true | false |
-| (Jv11v1(3)) | false | true | true | false |
-| (Jv1(2)) | true | true | true | true |
-| (Jv12) | true | true | true | true |
-| (Jv12v1(1)) | true | true | true | false |
-| (Jv12v1(2)) | false | false | true | false |
-| (Jv1(3)) | true | true | true | true |
-| (Jv13) | true | true | true | true |
-| (Jv13v1(1)) | true | true | true | false |
-| (Jv1(4)) | true | true | true | true |
-| (Jv14) | true | true | true | true |
-| (Jv1(5)) | true | true | true | true |
-| (Jv15) | true | true | true | true |
-| (Jv1(6)) | true | true | true | true |
-| (Jv1(7)) | true | true | true | false |
-| (Jv1(8)) | true | true | true | false |
-| (Jv1(9)) | true | true | true | false |
-| (Jv1v1(1)) | true | true | true | true |
-| (Jv1v1(10)) | true | true | true | false |
-| (Jv1v1(11)) | true | false | true | false |
-| (Jv1v1(12)) | true | false | true | false |
-| (Jv1v1(13)) | false | false | true | false |
-| (Jv1v1(2)) | true | true | true | true |
-| (Jv1v1(3)) | true | true | true | true |
-| (Jv1v1(4)) | true | true | true | true |
-| (Jv1v1(5)) | true | true | true | true |
-| (Jv1v1(6)) | true | true | true | false |
-| (Jv1v1(7)) | true | true | true | false |
-| (Jv1v1(8)) | true | true | true | false |
-| (Jv1v1(9)) | true | true | true | false |
-| (Jv2) | true | true | true | true |
-| (Jv2v1(1)) | true | true | true | true |
-| (Jv2v1(10)) | true | true | true | false |
-| (Jv2v1(11)) | true | true | false | false |
-| (Jv2v1(12)) | true | false | false | false |
-| (Jv2v1(2)) | true | true | true | true |
-| (Jv2v1(3)) | true | true | true | true |
-| (Jv2v1(4)) | true | true | true | true |
-| (Jv2v1(5)) | true | true | true | false |
-| (Jv2v1(6)) | true | true | true | false |
-| (Jv2v1(7)) | true | true | true | false |
-| (Jv2v1(8)) | true | true | true | false |
-| (Jv2v1(9)) | true | true | true | false |
-| (Jv3) | true | true | true | true |
-| (Jv3v1(1)) | true | true | true | true |
-| (Jv3v1(10)) | false | true | true | false |
-| (Jv3v1(11)) | false | true | false | false |
-| (Jv3v1(2)) | true | true | true | true |
-| (Jv3v1(3)) | true | true | true | true |
-| (Jv3v1(4)) | true | true | true | true |
-| (Jv3v1(5)) | true | true | true | false |
-| (Jv3v1(6)) | true | true | true | false |
-| (Jv3v1(7)) | true | true | true | false |
-| (Jv3v1(8)) | true | true | true | false |
-| (Jv3v1(9)) | true | true | true | false |
-| (Jv4) | true | true | true | true |
-| (Jv4v1(1)) | true | true | true | true |
-| (Jv4v1(10)) | false | false | true | false |
-| (Jv4v1(2)) | true | true | true | true |
-| (Jv4v1(3)) | true | true | true | true |
-| (Jv4v1(4)) | true | true | true | false |
-| (Jv4v1(5)) | true | true | true | false |
-| (Jv4v1(6)) | true | true | true | false |
-| (Jv4v1(7)) | true | true | true | false |
-| (Jv4v1(8)) | true | true | true | false |
-| (Jv4v1(9)) | false | false | true | false |
-| (Jv5) | true | true | true | true |
-| (Jv5v1(1)) | true | true | true | true |
-| (Jv5v1(2)) | true | true | true | true |
-| (Jv5v1(3)) | true | true | true | true |
-| (Jv5v1(4)) | true | true | true | false |
-| (Jv5v1(5)) | true | true | true | false |
-| (Jv5v1(6)) | true | true | true | false |
-| (Jv5v1(7)) | true | true | true | false |
-| (Jv5v1(8)) | true | false | true | false |
-| (Jv5v1(9)) | false | false | true | false |
-| (Jv6) | true | true | true | true |
-| (Jv6v1(1)) | true | true | true | true |
-| (Jv6v1(2)) | true | true | true | true |
-| (Jv6v1(3)) | true | true | true | false |
-| (Jv6v1(4)) | true | true | true | false |
-| (Jv6v1(5)) | true | true | true | false |
-| (Jv6v1(6)) | true | true | true | false |
-| (Jv6v1(7)) | true | true | true | false |
-| (Jv6v1(8)) | true | false | false | false |
-| (Jv7) | true | true | true | true |
-| (Jv7v1(1)) | true | true | true | true |
-| (Jv7v1(2)) | true | true | true | false |
-| (Jv7v1(3)) | true | true | true | false |
-| (Jv7v1(4)) | true | true | true | false |
-| (Jv7v1(5)) | true | true | true | false |
-| (Jv7v1(6)) | false | true | true | false |
-| (Jv7v1(7)) | false | true | true | false |
-| (Jv8) | true | true | true | true |
-| (Jv8v1(1)) | true | true | true | true |
-| (Jv8v1(2)) | true | true | true | false |
-| (Jv8v1(3)) | true | true | true | false |
-| (Jv8v1(4)) | true | true | true | false |
-| (Jv8v1(5)) | true | true | true | false |
-| (Jv8v1(6)) | false | false | true | false |
-| (Jv9) | true | true | true | true |
-| (Jv9v1(1)) | true | true | true | true |
-| (Jv9v1(2)) | true | true | true | false |
-| (Jv9v1(3)) | true | true | true | false |
-| (Jv9v1(4)) | true | true | true | false |
-| (Jv9v1(5)) | true | true | true | false |
+| $\langle J\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(J).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(J).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(J).pcom) |
+| $\langle J\cup1\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1).pcom) |
+| $\langle J\cup10\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv10).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv10).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv10).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv10).pcom) |
+| $\langle J\cup10\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv10v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv10v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv10v1(1)).pcom) | - |
+| $\langle J\cup10\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv10v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv10v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv10v1(2)).pcom) | - |
+| $\langle J\cup10\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv10v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv10v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv10v1(3)).pcom) | - |
+| $\langle J\cup10\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv10v1(4)).pcom) | - | - | - |
+| $\langle J\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(1)).pcom) |
+| $\langle J\cup11\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv11).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv11).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv11).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv11).pcom) |
+| $\langle J\cup1\langle 10\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(10)).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(10)).pcom) | - |
+| $\langle J\cup1\langle 1\langle 1\rangle\rangle\rangle$ | - | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(1(1))).pcom) |
+| $\langle J\cup1\langle 11\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(11)).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(11)).pcom) | - |
+| $\langle J\cup1\langle 12\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(12)).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(12)).pcom) | - |
+| $\langle J\cup1\langle 13\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(13)).pcom) | - |
+| $\langle J\cup11\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv11v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv11v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv11v1(1)).pcom) | - |
+| $\langle J\cup11\cup1\langle 2\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv11v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv11v1(2)).pcom) | - |
+| $\langle J\cup11\cup1\langle 3\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv11v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv11v1(3)).pcom) | - |
+| $\langle J\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(2)).pcom) |
+| $\langle J\cup12\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv12).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv12).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv12).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv12).pcom) |
+| $\langle J\cup12\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv12v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv12v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv12v1(1)).pcom) | - |
+| $\langle J\cup12\cup1\langle 2\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv12v1(2)).pcom) | - |
+| $\langle J\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(3)).pcom) |
+| $\langle J\cup13\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv13).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv13).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv13).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv13).pcom) |
+| $\langle J\cup13\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv13v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv13v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv13v1(1)).pcom) | - |
+| $\langle J\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(4)).pcom) |
+| $\langle J\cup14\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv14).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv14).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv14).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv14).pcom) |
+| $\langle J\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(5)).pcom) |
+| $\langle J\cup15\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv15).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv15).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv15).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv15).pcom) |
+| $\langle J\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1(6)).pcom) |
+| $\langle J\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(7)).pcom) | - |
+| $\langle J\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(8)).pcom) | - |
+| $\langle J\cup1\langle 9\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1(9)).pcom) | - |
+| $\langle J\cup1\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1v1(1)).pcom) |
+| $\langle J\cup1\cup1\langle 10\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(10)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(10)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(10)).pcom) | - |
+| $\langle J\cup1\cup1\langle 11\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(11)).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(11)).pcom) | - |
+| $\langle J\cup1\cup1\langle 12\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(12)).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(12)).pcom) | - |
+| $\langle J\cup1\cup1\langle 13\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(13)).pcom) | - |
+| $\langle J\cup1\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1v1(2)).pcom) |
+| $\langle J\cup1\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1v1(3)).pcom) |
+| $\langle J\cup1\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1v1(4)).pcom) |
+| $\langle J\cup1\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv1v1(5)).pcom) |
+| $\langle J\cup1\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(6)).pcom) | - |
+| $\langle J\cup1\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(7)).pcom) | - |
+| $\langle J\cup1\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(8)).pcom) | - |
+| $\langle J\cup1\cup1\langle 9\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv1v1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv1v1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv1v1(9)).pcom) | - |
+| $\langle J\cup2\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv2).pcom) |
+| $\langle J\cup2\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv2v1(1)).pcom) |
+| $\langle J\cup2\cup1\langle 10\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(10)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(10)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(10)).pcom) | - |
+| $\langle J\cup2\cup1\langle 11\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(11)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(11)).pcom) | - | - |
+| $\langle J\cup2\cup1\langle 12\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(12)).pcom) | - | - | - |
+| $\langle J\cup2\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv2v1(2)).pcom) |
+| $\langle J\cup2\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv2v1(3)).pcom) |
+| $\langle J\cup2\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv2v1(4)).pcom) |
+| $\langle J\cup2\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(5)).pcom) | - |
+| $\langle J\cup2\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(6)).pcom) | - |
+| $\langle J\cup2\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(7)).pcom) | - |
+| $\langle J\cup2\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(8)).pcom) | - |
+| $\langle J\cup2\cup1\langle 9\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv2v1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv2v1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv2v1(9)).pcom) | - |
+| $\langle J\cup3\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv3).pcom) |
+| $\langle J\cup3\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv3v1(1)).pcom) |
+| $\langle J\cup3\cup1\langle 10\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(10)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(10)).pcom) | - |
+| $\langle J\cup3\cup1\langle 11\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(11)).pcom) | - | - |
+| $\langle J\cup3\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv3v1(2)).pcom) |
+| $\langle J\cup3\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv3v1(3)).pcom) |
+| $\langle J\cup3\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv3v1(4)).pcom) |
+| $\langle J\cup3\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(5)).pcom) | - |
+| $\langle J\cup3\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(6)).pcom) | - |
+| $\langle J\cup3\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(7)).pcom) | - |
+| $\langle J\cup3\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(8)).pcom) | - |
+| $\langle J\cup3\cup1\langle 9\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv3v1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv3v1(9)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv3v1(9)).pcom) | - |
+| $\langle J\cup4\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv4).pcom) |
+| $\langle J\cup4\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv4v1(1)).pcom) |
+| $\langle J\cup4\cup1\langle 10\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(10)).pcom) | - |
+| $\langle J\cup4\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv4v1(2)).pcom) |
+| $\langle J\cup4\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv4v1(3)).pcom) |
+| $\langle J\cup4\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(4)).pcom) | - |
+| $\langle J\cup4\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(5)).pcom) | - |
+| $\langle J\cup4\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(6)).pcom) | - |
+| $\langle J\cup4\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(7)).pcom) | - |
+| $\langle J\cup4\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv4v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv4v1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(8)).pcom) | - |
+| $\langle J\cup4\cup1\langle 9\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv4v1(9)).pcom) | - |
+| $\langle J\cup5\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv5).pcom) |
+| $\langle J\cup5\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv5v1(1)).pcom) |
+| $\langle J\cup5\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv5v1(2)).pcom) |
+| $\langle J\cup5\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv5v1(3)).pcom) |
+| $\langle J\cup5\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(4)).pcom) | - |
+| $\langle J\cup5\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(5)).pcom) | - |
+| $\langle J\cup5\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(6)).pcom) | - |
+| $\langle J\cup5\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv5v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(7)).pcom) | - |
+| $\langle J\cup5\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv5v1(8)).pcom) | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(8)).pcom) | - |
+| $\langle J\cup5\cup1\langle 9\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv5v1(9)).pcom) | - |
+| $\langle J\cup6\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv6).pcom) |
+| $\langle J\cup6\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv6v1(1)).pcom) |
+| $\langle J\cup6\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv6v1(2)).pcom) |
+| $\langle J\cup6\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(3)).pcom) | - |
+| $\langle J\cup6\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(4)).pcom) | - |
+| $\langle J\cup6\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(5)).pcom) | - |
+| $\langle J\cup6\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(6)).pcom) | - |
+| $\langle J\cup6\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv6v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv6v1(7)).pcom) | - |
+| $\langle J\cup6\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv6v1(8)).pcom) | - | - | - |
+| $\langle J\cup7\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv7).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv7).pcom) |
+| $\langle J\cup7\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv7v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv7v1(1)).pcom) |
+| $\langle J\cup7\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv7v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(2)).pcom) | - |
+| $\langle J\cup7\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv7v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(3)).pcom) | - |
+| $\langle J\cup7\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv7v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(4)).pcom) | - |
+| $\langle J\cup7\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv7v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(5)).pcom) | - |
+| $\langle J\cup7\cup1\langle 6\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(6)).pcom) | - |
+| $\langle J\cup7\cup1\langle 7\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv7v1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv7v1(7)).pcom) | - |
+| $\langle J\cup8\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv8).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv8).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv8).pcom) |
+| $\langle J\cup8\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv8v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv8v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv8v1(1)).pcom) |
+| $\langle J\cup8\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv8v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv8v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8v1(2)).pcom) | - |
+| $\langle J\cup8\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv8v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv8v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8v1(3)).pcom) | - |
+| $\langle J\cup8\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv8v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv8v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8v1(4)).pcom) | - |
+| $\langle J\cup8\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv8v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv8v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8v1(5)).pcom) | - |
+| $\langle J\cup8\cup1\langle 6\rangle\rangle$ | - | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv8v1(6)).pcom) | - |
+| $\langle J\cup9\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv9).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv9).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv9).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv9).pcom) |
+| $\langle J\cup9\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv9v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv9v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv9v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/honeycomb/(Jv9v1(1)).pcom) |
+| $\langle J\cup9\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv9v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv9v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv9v1(2)).pcom) | - |
+| $\langle J\cup9\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv9v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv9v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv9v1(3)).pcom) | - |
+| $\langle J\cup9\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv9v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv9v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv9v1(4)).pcom) | - |
+| $\langle J\cup9\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/spl/(Jv9v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/fra/(Jv9v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg7/cen/(Jv9v1(5)).pcom) | - |
 
 ## Degree 6
 
 | type | bat | moth | honeycomb |
 | --- | --- | --- | --- |
-| (1) | true | true | true |
-| (10) | false | true | false |
-| (1(1)) | true | true | true |
-| (1(1(1))) | false | true | true |
-| (1(2)) | true | true | true |
-| (1(3)) | true | true | true |
-| (1(4)) | true | true | true |
-| (1(5)) | true | true | true |
-| (1(6)) | true | true | true |
-| (1(7)) | true | true | false |
-| (1(8)) | true | true | false |
-| (1(9)) | true | false | false |
-| (1v1(1)) | true | true | true |
-| (1v1(2)) | true | true | true |
-| (1v1(3)) | true | true | true |
-| (1v1(4)) | true | true | true |
-| (1v1(5)) | true | true | true |
-| (1v1(6)) | true | false | false |
-| (1v1(7)) | true | false | false |
-| (1v1(8)) | true | false | false |
-| (1v1(9)) | true | false | false |
-| (2) | true | true | true |
-| (2v1(1)) | true | true | true |
-| (2v1(2)) | true | true | true |
-| (2v1(3)) | true | true | true |
-| (2v1(4)) | true | true | true |
-| (2v1(5)) | true | false | false |
-| (2v1(6)) | true | false | false |
-| (3) | true | true | true |
-| (3v1(1)) | true | true | true |
-| (3v1(2)) | true | true | true |
-| (3v1(3)) | true | true | true |
-| (3v1(4)) | true | true | false |
-| (3v1(5)) | true | false | false |
-| (4) | true | true | true |
-| (4v1(1)) | true | true | true |
-| (4v1(2)) | true | true | true |
-| (4v1(3)) | true | true | false |
-| (4v1(4)) | true | true | false |
-| (4v1(5)) | true | false | false |
-| (5) | true | true | true |
-| (5v1(1)) | true | true | true |
-| (5v1(2)) | true | true | true |
-| (5v1(3)) | true | true | false |
-| (5v1(4)) | true | false | false |
-| (5v1(5)) | true | false | false |
-| (6) | true | true | true |
-| (6v1(1)) | true | true | true |
-| (6v1(2)) | true | true | true |
-| (7) | true | true | true |
-| (7v1(1)) | true | true | true |
-| (8) | true | true | true |
-| (8v1(1)) | true | true | true |
-| (9) | true | true | true |
-| (9v1(1)) | true | true | true |
+| $\langle 1\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1).pcom) |
+| $\langle 10\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(10).pcom) | - |
+| $\langle 1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(1)).pcom) |
+| $\langle 1\langle 1\langle 1\rangle\rangle\rangle$ | - | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(1(1))).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(1(1))).pcom) |
+| $\langle 1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(2)).pcom) |
+| $\langle 1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(3)).pcom) |
+| $\langle 1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(4)).pcom) |
+| $\langle 1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(5)).pcom) |
+| $\langle 1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(6)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1(6)).pcom) |
+| $\langle 1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(7)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(7)).pcom) | - |
+| $\langle 1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(8)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1(8)).pcom) | - |
+| $\langle 1\langle 9\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1(9)).pcom) | - | - |
+| $\langle 1\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1v1(1)).pcom) |
+| $\langle 1\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1v1(2)).pcom) |
+| $\langle 1\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1v1(3)).pcom) |
+| $\langle 1\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1v1(4)).pcom) |
+| $\langle 1\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(1v1(5)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(1v1(5)).pcom) |
+| $\langle 1\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(6)).pcom) | - | - |
+| $\langle 1\cup1\langle 7\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(7)).pcom) | - | - |
+| $\langle 1\cup1\langle 8\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(8)).pcom) | - | - |
+| $\langle 1\cup1\langle 9\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(1v1(9)).pcom) | - | - |
+| $\langle 2\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(2).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(2).pcom) |
+| $\langle 2\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(2v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(2v1(1)).pcom) |
+| $\langle 2\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(2v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(2v1(2)).pcom) |
+| $\langle 2\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(2v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(2v1(3)).pcom) |
+| $\langle 2\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(2v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(2v1(4)).pcom) |
+| $\langle 2\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2v1(5)).pcom) | - | - |
+| $\langle 2\cup1\langle 6\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(2v1(6)).pcom) | - | - |
+| $\langle 3\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(3).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(3).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(3).pcom) |
+| $\langle 3\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(3v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(3v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(3v1(1)).pcom) |
+| $\langle 3\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(3v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(3v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(3v1(2)).pcom) |
+| $\langle 3\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(3v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(3v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(3v1(3)).pcom) |
+| $\langle 3\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(3v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(3v1(4)).pcom) | - |
+| $\langle 3\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(3v1(5)).pcom) | - | - |
+| $\langle 4\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(4).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(4).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(4).pcom) |
+| $\langle 4\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(4v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(4v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(4v1(1)).pcom) |
+| $\langle 4\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(4v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(4v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(4v1(2)).pcom) |
+| $\langle 4\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(4v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(4v1(3)).pcom) | - |
+| $\langle 4\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(4v1(4)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(4v1(4)).pcom) | - |
+| $\langle 4\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(4v1(5)).pcom) | - | - |
+| $\langle 5\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(5).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(5).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(5).pcom) |
+| $\langle 5\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(5v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(5v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(5v1(1)).pcom) |
+| $\langle 5\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(5v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(5v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(5v1(2)).pcom) |
+| $\langle 5\cup1\langle 3\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(5v1(3)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(5v1(3)).pcom) | - |
+| $\langle 5\cup1\langle 4\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(5v1(4)).pcom) | - | - |
+| $\langle 5\cup1\langle 5\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(5v1(5)).pcom) | - | - |
+| $\langle 6\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(6).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(6).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(6).pcom) |
+| $\langle 6\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(6v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(6v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(6v1(1)).pcom) |
+| $\langle 6\cup1\langle 2\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(6v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(6v1(2)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(6v1(2)).pcom) |
+| $\langle 7\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(7).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(7).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(7).pcom) |
+| $\langle 7\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(7v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(7v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(7v1(1)).pcom) |
+| $\langle 8\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(8).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(8).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(8).pcom) |
+| $\langle 8\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(8v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(8v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(8v1(1)).pcom) |
+| $\langle 9\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(9).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(9).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(9).pcom) |
+| $\langle 9\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/bat/(9v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/moth/(9v1(1)).pcom) | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg6/honeycomb/(9v1(1)).pcom) |
 
 ## Degree 5
 
 | type | honeycomb |
 | --- | --- |
-| (J) | true |
-| (Jv1) | true |
-| (Jv1(1)) | true |
-| (Jv2) | true |
-| (Jv3) | true |
-| (Jv4) | true |
-| (Jv5) | true |
-| (Jv6) | true |
+| $\langle J\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(J).pcom) |
+| $\langle J\cup1\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv1).pcom) |
+| $\langle J\cup1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv1(1)).pcom) |
+| $\langle J\cup2\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv2).pcom) |
+| $\langle J\cup3\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv3).pcom) |
+| $\langle J\cup4\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv4).pcom) |
+| $\langle J\cup5\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv5).pcom) |
+| $\langle J\cup6\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg5/honeycomb/(Jv6).pcom) |
 
 ## Degree 4
 
 | type | honeycomb |
 | --- | --- |
-| (1) | true |
-| (1(1)) | true |
-| (2) | true |
-| (3) | true |
-| (4) | true |
+| $\langle 1\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg4/honeycomb/(1).pcom) |
+| $\langle 1\langle 1\rangle\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg4/honeycomb/(1(1)).pcom) |
+| $\langle 2\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg4/honeycomb/(2).pcom) |
+| $\langle 3\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg4/honeycomb/(3).pcom) |
+| $\langle 4\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg4/honeycomb/(4).pcom) |
 
 ## Degree 3
 
 | type | honeycomb |
 | --- | --- |
-| (J) | true |
-| (Jv1) | true |
+| $\langle J\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg3/honeycomb/(J).pcom) |
+| $\langle J\cup1\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg3/honeycomb/(Jv1).pcom) |
 
 ## Degree 2
 
 | type | honeycomb |
 | --- | --- |
-| (1) | true |
+| $\langle 1\rangle$ | [Link](https://github.com/dmg-lab/CombinatorialPatchworking/blob/main/deg2/honeycomb/(1).pcom) |

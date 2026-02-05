@@ -1,3 +1,36 @@
+# CombinatorialPatchworking
+
+This repository contains the combinatorial patchworks listed in [[1]](#1).
+You can find direct links to the patchworks in the tables below.
+Each patchwork is available as a .pcom file, which can be
+opened using [Polymake](https://polymake.org) or [Oscar.jl](https://www.oscar-system.org).
+
+**In Polymake**
+```perl
+> polymake
+polytope > $C = load("yourfile.pcom");
+```
+
+**In Oscar.jl**
+
+```julia
+using Oscar
+C = load("yourfile.pcom")
+```
+
+You can also visualize the patchworks using the [Patchworking
+GUI](https://patchworking.).
+Just click on the "Visual" link in the tables
+below, and it will open the corresponding patchwork in the visualization tool.
+
+
+## References
+
+<a id="1">[1]</a>
+Z. Geiselmann, M. Joswig, L. Kastner, K. Mundinger, </br>
+S. Pokutta, C. Spiegel, M. Wack, M. Zimmer </br>
+***121 patchworked curves of degree seven***, tba
+
 # Tables
 
 ## Degree 7

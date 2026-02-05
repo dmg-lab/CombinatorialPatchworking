@@ -1,0 +1,657 @@
+{
+  "DUAL_SUBDIVISION": {
+    "POINTS": [
+      ["1", "0", "0"],
+      ["1", "0", "1"],
+      ["1", "0", "2"],
+      ["1", "0", "3"],
+      ["1", "0", "4"],
+      ["1", "0", "5"],
+      ["1", "0", "6"],
+      ["1", "0", "7"],
+      ["1", "1", "0"],
+      ["1", "1", "1"],
+      ["1", "1", "2"],
+      ["1", "1", "3"],
+      ["1", "1", "4"],
+      ["1", "1", "5"],
+      ["1", "1", "6"],
+      ["1", "2", "0"],
+      ["1", "2", "1"],
+      ["1", "2", "2"],
+      ["1", "2", "3"],
+      ["1", "2", "4"],
+      ["1", "2", "5"],
+      ["1", "3", "0"],
+      ["1", "3", "1"],
+      ["1", "3", "2"],
+      ["1", "3", "3"],
+      ["1", "3", "4"],
+      ["1", "4", "0"],
+      ["1", "4", "1"],
+      ["1", "4", "2"],
+      ["1", "4", "3"],
+      ["1", "5", "0"],
+      ["1", "5", "1"],
+      ["1", "5", "2"],
+      ["1", "6", "0"],
+      ["1", "6", "1"],
+      ["1", "7", "0"]
+    ],
+    "WEIGHTS": ["0", "0", "8/25", "49/50", "43/25", "62/25", "83/25", "106/25", "0", "1/50", "1/4", "239/300", "3/2", "689/300", "159/50", "19/60", "149/600", "1/5", "16/25", "13/10", "107/50", "76/75", "487/600", "191/300", "457/600", "111/100", "179/100", "931/600", "4/3", "9/8", "194/75", "1439/600", "9/4", "1051/300", "679/200", "114/25"],
+    "MAXIMAL_CELLS": [
+      [0, 1, 8],
+      [1, 2, 10],
+      [1, 8, 9],
+      [1, 9, 17],
+      [1, 10, 17],
+      [2, 3, 11],
+      [2, 10, 18],
+      [2, 11, 25],
+      [2, 18, 25],
+      [3, 4, 12],
+      [3, 11, 25],
+      [3, 12, 19],
+      [3, 19, 25],
+      [4, 5, 12],
+      [5, 6, 13],
+      [5, 12, 19],
+      [5, 13, 25],
+      [5, 19, 25],
+      [6, 7, 14],
+      [6, 13, 25],
+      [6, 14, 20],
+      [6, 20, 25],
+      [8, 9, 17],
+      [8, 15, 16],
+      [8, 16, 17],
+      [10, 17, 18],
+      [15, 16, 23],
+      [15, 21, 22],
+      [15, 22, 29],
+      [15, 23, 29],
+      [16, 17, 23],
+      [17, 18, 25],
+      [17, 23, 29],
+      [17, 24, 25],
+      [17, 24, 29],
+      [21, 22, 29],
+      [21, 26, 27],
+      [21, 27, 28],
+      [21, 28, 29],
+      [24, 25, 29],
+      [26, 27, 30],
+      [27, 28, 30],
+      [28, 29, 30],
+      [29, 30, 31],
+      [29, 31, 33],
+      [29, 32, 33],
+      [30, 31, 33],
+      [32, 33, 34],
+      [33, 34, 35]
+    ]
+  },
+  "MONOMIALS": [
+    [0, 0],
+    [0, 1],
+    [0, 2],
+    [0, 3],
+    [0, 4],
+    [0, 5],
+    [0, 6],
+    [0, 7],
+    [1, 0],
+    [1, 1],
+    [1, 2],
+    [1, 3],
+    [1, 4],
+    [1, 5],
+    [1, 6],
+    [2, 0],
+    [2, 1],
+    [2, 2],
+    [2, 3],
+    [2, 4],
+    [2, 5],
+    [3, 0],
+    [3, 1],
+    [3, 2],
+    [3, 3],
+    [3, 4],
+    [4, 0],
+    [4, 1],
+    [4, 2],
+    [4, 3],
+    [5, 0],
+    [5, 1],
+    [5, 2],
+    [6, 0],
+    [6, 1],
+    [7, 0]
+  ],
+  "COEFFICIENTS": ["0", "0", "8/25", "49/50", "43/25", "62/25", "83/25", "106/25", "0", "1/50", "1/4", "239/300", "3/2", "689/300", "159/50", "19/60", "149/600", "1/5", "16/25", "13/10", "107/50", "76/75", "487/600", "191/300", "457/600", "111/100", "179/100", "931/600", "4/3", "9/8", "194/75", "1439/600", "9/4", "1051/300", "679/200", "114/25"],
+  "POLYNOMIAL": [[[[5, 2], "9/4"], [[1, 4], "3/2"], [[3, 3], "457/600"], [{"0": 7, "_dim": 2}, "114/25"], [[5, 1], "1439/600"], [[1, 3], "239/300"], [[3, 2], "191/300"], [{"0": 5, "_dim": 2}, "194/75"], [[1, 2], "1/4"], [[3, 1], "487/600"], [[1, 1], "1/50"], [{"0": 3, "_dim": 2}, "76/75"], [{"0": 1, "_dim": 2}, "0"], [{"1": 7, "_dim": 2}, "106/25"], [{"1": 6, "_dim": 2}, "83/25"], [[2, 5], "107/50"], [[4, 3], "9/8"], [{"1": 5, "_dim": 2}, "62/25"], [[2, 4], "13/10"], [[6, 1], "679/200"], [{"1": 4, "_dim": 2}, "43/25"], [[2, 3], "16/25"], [[4, 2], "4/3"], [{"0": 6, "_dim": 2}, "1051/300"], [{"1": 3, "_dim": 2}, "49/50"], [[2, 2], "1/5"], [[4, 1], "931/600"], [{"1": 2, "_dim": 2}, "8/25"], [[2, 1], "149/600"], [{"0": 4, "_dim": 2}, "179/100"], [{"1": 1, "_dim": 2}, "0"], [{"0": 2, "_dim": 2}, "19/60"], [{"_dim": 2}, "0"], [[1, 5], "689/300"], [[3, 4], "111/100"], [[1, 6], "159/50"]], 2],
+  "ORIGIN": "Jv3v1<11>_frayed_centrifugal.pcom[0]",
+  "PATCHWORK": [
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7>",
+      "OCCURRENCES": 1202847744
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6>",
+      "OCCURRENCES": 1179910144
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv8>",
+      "OCCURRENCES": 1026555904
+    },
+    {
+      "SIGNS": [true, true, true, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5>",
+      "OCCURRENCES": 948568064
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv9>",
+      "OCCURRENCES": 722731008
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4>",
+      "OCCURRENCES": 614465536
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv10>",
+      "OCCURRENCES": 407896064
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3>",
+      "OCCURRENCES": 316145664
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, false, false, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv11>",
+      "OCCURRENCES": 182714368
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, true, false, true, true, false, false, false, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<1>>",
+      "OCCURRENCES": 125566976
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2>",
+      "OCCURRENCES": 115343360
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, true, false, true, false, false, false, false, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5v1<1>>",
+      "OCCURRENCES": 114950144
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, false, false, true, false, false, false, false, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<1>>",
+      "OCCURRENCES": 107741184
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, false, false, false, false, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6v1<1>>",
+      "OCCURRENCES": 81526784
+    },
+    {
+      "SIGNS": [true, true, true, false, false, true, false, false, true, true, false, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<1>>",
+      "OCCURRENCES": 78643200
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<3>>",
+      "OCCURRENCES": 66322432
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, true, false, false, false, false, false, false, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<2>>",
+      "OCCURRENCES": 63176704
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<3>>",
+      "OCCURRENCES": 62259200
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<3>>",
+      "OCCURRENCES": 61210624
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv12>",
+      "OCCURRENCES": 60817408
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, true, false, true, false, false, false, false, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<2>>",
+      "OCCURRENCES": 60424192
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, true, false, true, true, false, false, false, false, false, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<2>>",
+      "OCCURRENCES": 54132736
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, false, false, false, false, false, false, false, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5v1<2>>",
+      "OCCURRENCES": 54132736
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, true, false, false, true, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7v1<1>>",
+      "OCCURRENCES": 51642368
+    },
+    {
+      "SIGNS": [true, true, true, false, false, true, false, false, true, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<4>>",
+      "OCCURRENCES": 47185920
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, false, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<4>>",
+      "OCCURRENCES": 46268416
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, false, false, true, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<3>>",
+      "OCCURRENCES": 44564480
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, true, false, true, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<4>>",
+      "OCCURRENCES": 44498944
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, true, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5v1<3>>",
+      "OCCURRENCES": 42205184
+    },
+    {
+      "SIGNS": [true, true, true, false, false, true, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<1>>",
+      "OCCURRENCES": 41943040
+    },
+    {
+      "SIGNS": [true, true, true, false, false, true, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<4>>",
+      "OCCURRENCES": 40370176
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, true, false, true, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<2>>",
+      "OCCURRENCES": 35651584
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, false, false, false, false, false, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6v1<2>>",
+      "OCCURRENCES": 33849344
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, true, false, false, false, false, false, false, false, false, false, false, false, true, false, true, false, true, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv8v1<1>>",
+      "OCCURRENCES": 31457280
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5v1<4>>",
+      "OCCURRENCES": 30736384
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, true, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<5>>",
+      "OCCURRENCES": 26476544
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<5>>",
+      "OCCURRENCES": 25034752
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6v1<3>>",
+      "OCCURRENCES": 21004288
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1>",
+      "OCCURRENCES": 20971520
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, false, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7v1<2>>",
+      "OCCURRENCES": 16678912
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, false, true, false, false, false, false, false, false, false, true, false, false, true, false, true, false, true, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv9v1<1>>",
+      "OCCURRENCES": 16515072
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, true, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<5>>",
+      "OCCURRENCES": 16252928
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<4>>",
+      "OCCURRENCES": 15204352
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<6>>",
+      "OCCURRENCES": 14942208
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<3>>",
+      "OCCURRENCES": 14680064
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6v1<4>>",
+      "OCCURRENCES": 14614528
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, false, false, false, false, false, false, false, false, true, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<5>>",
+      "OCCURRENCES": 13697024
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<6>>",
+      "OCCURRENCES": 12615680
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv13>",
+      "OCCURRENCES": 11665408
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, false, false, false, false, false, false, true, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5v1<5>>",
+      "OCCURRENCES": 11075584
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<5>>",
+      "OCCURRENCES": 11010048
+    },
+    {
+      "SIGNS": [true, true, true, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<1>>",
+      "OCCURRENCES": 10485760
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, false, false, true, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<2>>",
+      "OCCURRENCES": 10485760
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<7>>",
+      "OCCURRENCES": 8912896
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, true, false, true, true, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7v1<3>>",
+      "OCCURRENCES": 7897088
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, false, false, true, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv8v1<2>>",
+      "OCCURRENCES": 7536640
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<6>>",
+      "OCCURRENCES": 7340032
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, true, true, false, false, false, false, false, false, false, true, false, false, true, false, true, false, true, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv10v1<1>>",
+      "OCCURRENCES": 7077888
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, false, false, true, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<6>>",
+      "OCCURRENCES": 6324224
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, false, false, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7v1<4>>",
+      "OCCURRENCES": 5570560
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<7>>",
+      "OCCURRENCES": 5406720
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, false, false, true, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6v1<5>>",
+      "OCCURRENCES": 5308416
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<7>>",
+      "OCCURRENCES": 5242880
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, false, false, true, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<8>>",
+      "OCCURRENCES": 5242880
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, true, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<8>>",
+      "OCCURRENCES": 3080192
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, true, false, true, false, false, false, false, false, false, false, true, false, true, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv9v1<2>>",
+      "OCCURRENCES": 2949120
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, true, false, false, true, false, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv11v1<1>>",
+      "OCCURRENCES": 2621440
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, true, false, false, false, false, false, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1<8>>",
+      "OCCURRENCES": 2621440
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, true, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<6>>",
+      "OCCURRENCES": 2555904
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, false, false, false, false, false, false, false, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<7>>",
+      "OCCURRENCES": 2260992
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv5v1<6>>",
+      "OCCURRENCES": 2162688
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, true, false, true, true, false, false, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv8v1<3>>",
+      "OCCURRENCES": 2162688
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, true, false, false, false, false, false, false, false, true, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv1v1<9>>",
+      "OCCURRENCES": 1835008
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, false, true, false, false, false, false, true, false, true, true, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv8v1<4>>",
+      "OCCURRENCES": 1703936
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, false, false, true, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<9>>",
+      "OCCURRENCES": 1638400
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, false, false, true, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7v1<5>>",
+      "OCCURRENCES": 1638400
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv6v1<6>>",
+      "OCCURRENCES": 1114112
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, false, false, false, false, false, false, false, true, false, true, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv12v1<1>>",
+      "OCCURRENCES": 786432
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, true, true, false, false, false, false, false, true, false, true, false, false, false, false, true, false, true, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv14>",
+      "OCCURRENCES": 786432
+    },
+    {
+      "SIGNS": [true, true, false, true, false, false, true, false, true, true, false, false, false, false, false, false, true, false, true, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv10v1<2>>",
+      "OCCURRENCES": 688128
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, true, false, false, false, false, false, false, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<8>>",
+      "OCCURRENCES": 589824
+    },
+    {
+      "SIGNS": [true, true, true, false, false, true, false, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv4v1<7>>",
+      "OCCURRENCES": 589824
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, true, false, false, false, false, false, true, false, false, false, false, true, false, false, false, false, false, false, false, false, true, false, false, false, false],
+      "TYPE": "<Jv1<9>>",
+      "OCCURRENCES": 524288
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, false, false, true, false, false, false, false, true, false, true, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv8v1<5>>",
+      "OCCURRENCES": 524288
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, true, true, false, false, false, false, false, false, false, true, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv9v1<3>>",
+      "OCCURRENCES": 458752
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, true, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv2v1<10>>",
+      "OCCURRENCES": 425984
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, false, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<9>>",
+      "OCCURRENCES": 327680
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, true, false, false, false, false, false, false, false, true, true, false, false, false, true, false, false, false, false, false, false, false, false, true, false, false, false, false],
+      "TYPE": "<Jv1v1<10>>",
+      "OCCURRENCES": 262144
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, false, false, true, true, true, false, false, false, false, false, false, false, true, false, false, false, true, true, false, true, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv9v1<4>>",
+      "OCCURRENCES": 262144
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, true, false, false, false, false, false, true, false, true, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv5v1<7>>",
+      "OCCURRENCES": 196608
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, true, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv6v1<7>>",
+      "OCCURRENCES": 196608
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv7v1<6>>",
+      "OCCURRENCES": 196608
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, true, false, true, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv10v1<3>>",
+      "OCCURRENCES": 163840
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+      "TYPE": "<Jv3v1<10>>",
+      "OCCURRENCES": 163840
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, true, false, true, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv13v1<1>>",
+      "OCCURRENCES": 131072
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, true, false, true, false, true, false, false, false, false, true, true, true, true, false, false, false, true, true, false, true, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv15>",
+      "OCCURRENCES": 131072
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv4v1<8>>",
+      "OCCURRENCES": 131072
+    },
+    {
+      "SIGNS": [true, true, false, false, false, false, true, false, true, true, false, true, false, false, false, false, true, false, true, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false],
+      "TYPE": "<Jv9v1<5>>",
+      "OCCURRENCES": 131072
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, true, true, false, false, true, true, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv7v1<7>>",
+      "OCCURRENCES": 65536
+    },
+    {
+      "SIGNS": [true, true, false, true, false, true, false, false, true, true, false, false, false, false, false, false, false, false, true, false, false, true, false, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv11v1<2>>",
+      "OCCURRENCES": 32768
+    },
+    {
+      "SIGNS": [true, true, true, true, false, true, false, false, true, false, false, true, false, false, false, true, false, true, true, false, false, true, true, true, false, false, false, false, false, false, true, false, false, false, false, false],
+      "TYPE": "<Jv11v1<3>>",
+      "OCCURRENCES": 32768
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, true, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, true, false, false, false, false],
+      "TYPE": "<Jv2v1<11>>",
+      "OCCURRENCES": 32768
+    },
+    {
+      "SIGNS": [true, true, true, false, false, false, true, false, true, false, false, false, false, false, false, true, false, true, true, false, false, false, false, true, false, false, false, false, false, false, false, true, false, false, false, false],
+      "TYPE": "<Jv3v1<11>>",
+      "OCCURRENCES": 32768
+    }
+  ],
+  "PURE": true,
+  "_attrs": {"ORIGIN": {"attachment": true}},
+  "_ns": {"polymake": ["https://polymake.org", "4.13"]},
+  "_id": "Jv3v1<11>_frayed_centrifugal",
+  "_type": "tropical::Hypersurface<Min>"
+}

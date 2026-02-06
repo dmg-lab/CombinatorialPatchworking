@@ -19,7 +19,7 @@ C = load("yourfile.pcom")
 ```
 
 You can also visualize the patchworks using the [Patchworking
-GUI](https://patchworking.).
+GUI](https://patchworking.polymake.org).
 Just click on the "Visual" link in the tables
 below, and it will open the corresponding patchwork in the visualization tool.
 

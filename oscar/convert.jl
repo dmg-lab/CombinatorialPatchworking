@@ -1,5 +1,5 @@
 C,t = QQ[:t]
-R,(x,y,z) = C[:x,:y,:z]
+R,(x,y,z) = graded_polynomial_ring(C, [:x,:y,:z])
 found = String[]
 result = Dict{String, elem_type(R)}()
 fldrs = ["cen", "fra", "spl", "honeycomb"]

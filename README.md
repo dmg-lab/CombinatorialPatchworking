@@ -31,6 +31,21 @@ Z. Geiselmann, M. Joswig, L. Kastner, K. Mundinger, </br>
 S. Pokutta, C. Spiegel, M. Wack, M. Zimmer </br>
 ***121 patchworked curves of degree seven***, tba
 
+## Degree-eight dataset
+
+The [degree-eight archive](deg8.pcoms.txz) contains 2,367 unimodular `.pcom`
+certificates for real schemes currently recorded as realizable by
+combinatorial patchworking. Extract the archive with:
+
+```sh
+tar -xJf deg8.pcoms.txz
+```
+
+Within the archive, certificates are grouped under
+`deg8/oNN-pNN-nNN/`, where `o` is the total number of ovals and `(p,n)` is
+the positive/negative oval pair. Each filename encodes the realized type,
+which is also stored in the certificate's `TYPE` field.
+
 # Tables
 
 ## Degree 7

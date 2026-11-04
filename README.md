@@ -46,6 +46,16 @@ Within the archive, certificates are grouped under
 the positive/negative oval pair. Each filename encodes the realized type,
 which is also stored in the certificate's `TYPE` field.
 
+## Degrees 8 and 9: Harnack splits
+
+The folders below hold one patchwork for every real scheme of a maximal
+T-curve that a compatible collection of Harnack splits produces. 
+
+| degree | Harnack splits | compatible collections | real schemes | table |
+| --- | ---: | ---: | ---: | --- |
+| 8 | 873 | 105,949,232,275 | 38 | [deg8](deg8/README.md) |
+| 9 | 1,437 | 57,065,860,838,381 | 225 | [deg9](deg9/README.md) |
+
 # Tables
 
 ## Degree 7
